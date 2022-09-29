@@ -1,4 +1,4 @@
-package com.example.androidbackgroundlocationtracking
+package com.example.androidbackgroundlocationtracking.service
 
 import android.location.Location
 import kotlinx.coroutines.flow.Flow
